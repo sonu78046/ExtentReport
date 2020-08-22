@@ -12,7 +12,6 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 
 public class Extent {
 //ExtentHtmlReporter htmlReporter;
-    
    // ExtentReports extent;
     //helps to generate the logs in test report.
     //ExtentTest test;
